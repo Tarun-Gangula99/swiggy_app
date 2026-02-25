@@ -1,0 +1,6 @@
+This file is for practice purpose
+
+linux
+
+shellscript - interact between user and os
+
