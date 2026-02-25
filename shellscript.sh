@@ -10,3 +10,5 @@ echo $a
 echo $b
 
 echo "This is new line adding"
+
+echo "example for revert command, this will delete the data using commit id"
