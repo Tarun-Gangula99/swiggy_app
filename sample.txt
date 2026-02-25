@@ -1,6 +1,13 @@
 This file is for practice purpose
 
-linux
+linux - linux is the os and having commands.
 
 shellscript - interact between user and os
+
+git - it is a vcs(version control system)
+
+git is used to develop the code from local to remote
+
+github - it is a repository to store the source code.
+
 
