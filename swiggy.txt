@@ -3,3 +3,5 @@ creating a new branch
 example for stash command
 
 practice the stash
+
+this is the line adding from vs code
